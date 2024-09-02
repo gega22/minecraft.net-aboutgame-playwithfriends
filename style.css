@@ -9,16 +9,35 @@ body{
     font-family: 'Minecraft', sans-serif;
     text-align: center;
     color: yellow;
+    padding: 50px;
 }
 .text2{
     font-size: 30px;
     font-family: 'Minecraft', sans-serif;
     text-align: center;
     color: purple;
+    padding: 25px;
 }
 .text3{
     font-size: 30px;
     font-family: 'Minecraft', sans-serif;
     text-align: center;
     color: aqua;
+    padding: 25px;
+}
+.btn {
+    float: left;
+    background-color: #333333;
+    border: none;
+    color: blue;
+    padding: 15px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: all 0.2s ease-in-out;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
 }
